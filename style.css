@@ -1,0 +1,29 @@
+body{
+    background-color: #A9D7E9;
+}
+div{
+    background-color: #F3F3F3;
+    height: auto;
+    width:60%;
+    margin: 40px auto;
+    padding-bottom: 80px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    align-items: center;
+    max-width: 600px;
+    min-width: 400px;
+}
+.container button{
+    background: rgb(118, 159, 213);
+    border: none;
+    height: 25px;
+    width: 80px;
+    margin-left: -5px;
+    color: #F3F3F3;
+}
+.container input{
+    border: none;
+    height: 22px;
+     
+}
