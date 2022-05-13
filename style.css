@@ -3,11 +3,20 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+
 body{
     height: 100vh;
     background: linear-gradient(135deg,#4d12d6,#d161ff);
 }
 
+.container h1 { color: white;
+    padding-bottom: 30px ;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+        src: url(Quicksand-Regular.ttf);
+    }
+        
 .container{
     width: 100%;
     max-width: 450px;
